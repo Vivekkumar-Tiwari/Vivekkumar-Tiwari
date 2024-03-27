@@ -8,13 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **App Development**
-
 - 🌱 I’m currently learning **Android Application using java with xml.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vivekkumar-Tiwari?tab=repositories](https://github.com/Vivekkumar-Tiwari?tab=repositories)
-
+- 👨‍💻 All of my projects are available at [MY GITHUB ACCOUNT](https://github.com/Vivekkumar-Tiwari?tab=repositories)
 - 💬 Ask me about **Android, UI Designing**
-
 - 📫 How to reach me **vt9295872@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

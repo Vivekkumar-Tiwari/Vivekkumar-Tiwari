@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Android Application using java with xml.**
-- - 💬 Ask me about **Android, UI Designing**
-- - 💼 My professional portfolio [Portfolio Link](https://vivekstech.rf.gd/?i=1)
+- 💬 Ask me about **Android, UI Designing**
+- 💼 My professional portfolio [Portfolio Link](https://vivekstech.rf.gd/?i=1)
 - 👨‍💻 All of my projects are available at [MY GITHUB ACCOUNT](https://github.com/Vivekkumar-Tiwari?tab=repositories)
 - 📫 How to reach me **vt9295872@gmail.com**
 

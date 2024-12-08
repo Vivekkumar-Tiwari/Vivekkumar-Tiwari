@@ -7,10 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Android Application using java with xml.**
 - 💬 Ask me about **Android, UI Designing**
-- 💼 My professional portfolio [PORTFOLIO LINK](https://vivekstech.rf.gd/?i=1)
 - 👨‍💻 All of my projects are available at [MY GITHUB ACCOUNT](https://github.com/Vivekkumar-Tiwari?tab=repositories)
 - 📫 How to reach me **vt9295872@gmail.com**
 

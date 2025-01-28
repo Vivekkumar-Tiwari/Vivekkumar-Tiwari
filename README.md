@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend Web-App Development**
 
-- 💼 My professional portfolio: [Portfolio](https://vivekkumar-tiwari.github.io/Portfolio/)
+- 💼 My professional portfolio: [Portfolio](https://vivekkumar-tiwari.github.io/Vivek_Tiwari/#about)
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/Vivekkumar-Tiwari?tab=repositories)
 

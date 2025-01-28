@@ -1,3 +1,6 @@
+![new_cover - 5](https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35)
+
+
 <h1 align="center">Hey, I'm Vivek Tiwari</h1>
 <h3 align="center">A passionate Frontend Developer & UI Designer in India</h3>
 

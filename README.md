@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/Vivekkumar-Tiwari?tab=repositories)
 
-- 🎨 You can see all my designs on Dribbble: [Dribbble](https://dribbble.com/Vivekkumar-09)
+- 🎨 You can see all my designs on Behance: [Behance](https://www.behance.net/vivektiwari53)
 
 - 📫 How to reach me: **vt9295872@gmail.com**
 

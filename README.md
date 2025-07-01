@@ -1,6 +1,6 @@
 <!-- 💫 Vibrant Glass Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35" alt="Header" width="100%" style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35" alt="Header" width="100%" style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
 </p>
 
 <p align="center">

@@ -15,10 +15,10 @@
 
 ### 👨‍🎨 About Me
 
-💡 Passionate about creating **human-first digital experiences**  
-🛠️ Full-stack tools? Love 'em. Design systems? Build 'em.  
-📚 Constantly learning: **Motion UI**, **Micro-interactions**, **AI in UX**  
-🌍 Based in India | ✈️ Open to global freelance/remote collabs
+💡 Passionate about designing and developing human-first digital experiences
+🛠️ Skilled in crafting intuitive UI/UX and building responsive mobile frontends
+📚 Constantly learning: Motion UI, Micro-interactions, AI-driven UX
+🌍 Based in India | ✈️ Open to global freelance & remote collaborations
 
 🎒 **Portfolio:** [vivekkumar-tiwari.github.io/Vivek_Tiwari](https://vivekkumar-tiwari.github.io/Vivek_Tiwari/#about)
 

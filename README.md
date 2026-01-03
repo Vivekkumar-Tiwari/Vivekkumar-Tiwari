@@ -1,72 +1,70 @@
-<!-- 💫 Vibrant Glass Header -->
 <p align="center">
-
-  <img src="https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35" alt="Header" width="100%" style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+  <img src="https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35" alt="Header" width="100%" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5E57&center=true&vCenter=true&width=435&lines=Hey+I'm+Vivek+Tiwari;UI%2FUX+Designer+%7C+Frontend+Developer;Designing+Feel-Good+Interfaces+%F0%9F%8C%8C" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&pause=1000&color=FF5E57&center=true&vCenter=true&width=500&lines=Hey+I'm+Vivek+Tiwari;UI%2FUX+Designer;Frontend+Developer;Crafting+Digital+Experiences" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekkumar-tiwari&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
-### 👨‍🎨 About Me
-
-💡 Passionate about designing and developing human-first digital experiences<br>
-🛠️ Skilled in crafting intuitive UI/UX and building responsive mobile frontends<br>
-📚 Constantly learning: Motion UI, Micro-interactions, AI-driven UX<br>
-🌍 Based in India | ✈️ Open to global freelance & remote collaborations
-
-🎒 **Portfolio:** [vivekkumar-tiwari.github.io/Vivek_Tiwari](https://vivekkumar-tiwari.github.io/Vivek_Tiwari/#about)
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vivektiwari02" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://www.instagram.com/vtn_ui_ux/?hl=en" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://dribbble.com/vivekkumar-09" title="Dribbble"><img src="https://skillicons.dev/icons?i=dribbble" height="30"/></a>
-  <a href="https://www.behance.net/vivektiwari53" title="Behance"><img src="https://skillicons.dev/icons?i=behance" height="30"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vivekkumar-tiwari&label=VISITORS&color=FF5E57&style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧰 Tools & Technologies
+### 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <p>✨ <b>Design Philosophy</b><br>I create human-first digital experiences that are as functional as they are beautiful.</p>
+      <p>🛠️ <b>Current Focus</b><br>Mastering Motion UI, Micro-interactions, and AI-driven UX workflows.</p>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <p>🌍 <b>Location</b><br>Based in India (Available for Global Remote Work)</p>
+      <p>🔗 <b>Portfolio</b><br><a href="https://vivekkumar-tiwari.github.io/Vivek_Tiwari/#about">vivektiwari.design ↗️</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Creative Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,canva,html,css,js,java,androidstudio,firebase,wordpress" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma,xd,ps,html,css,js,java,androidstudio,firebase,wordpress&theme=dark" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekkumar-tiwari&theme=tokyonight&show_icons=true&hide_border=false" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar-tiwari&theme=tokyonight&hide_border=false" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekkumar-tiwari&theme=tokyonight&show_icons=true&hide_border=true&title_color=FF5E57&icon_color=FF5E57&text_color=a9b1d6" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar-tiwari&theme=tokyonight&hide_border=true&stroke=FF5E57&ring=FF5E57&fire=FF5E57&currStreakNum=FF5E57" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar-tiwari&theme=tokyonight&layout=compact&hide_border=true&title_color=FF5E57" width="70%"/>
 </p>
 
 ---
 
-### 🧩 Quote of the Day
-
-> _“Good design is like a refrigerator—when it works, no one notices. When it doesn’t, it sure stinks.”_  
-> — *Irene Au*
-
----
-
-### 🤝 Let’s Collaborate!
-
-If you have an idea worth building with care and creativity,  
-📬 drop a DM or email and let’s make something beautiful.
-
----
+### 🌐 Let's Build Something Great
 
 <p align="center">
-  ⭐ _If you like my work, star a few repos – it means the world!_
+  <a href="https://linkedin.com/in/vivektiwari02"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dribbble.com/vivekkumar-09"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.behance.net/vivektiwari53"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vtn_ui_ux/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <br>
+  <i>“Good design is like a refrigerator—when it works, no one notices.”</i><br>
+  <b>— Irene Au</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5E57&height=60&section=footer" width="100%"/>
 </p>

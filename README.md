@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2857c6d-0879-4b3c-9c73-eeaad6fcff35" alt="Header" width="100%" style="border-radius: 20px;" />
+  <img width="1584" height="396" alt="LinkedIn cover 2026" src="https://github.com/user-attachments/assets/b7ed4750-6bd3-4225-8ddb-40a24caf32ed" />
 </p>
 
 <p align="center">

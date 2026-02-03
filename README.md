@@ -1,6 +1,6 @@
 <p align="center">
   <img width="1584" height="396" alt="LinkedIn cover 2026" src="https://github.com/user-attachments/assets/b7ed4750-6bd3-4225-8ddb-40a24caf32ed" />
-</p>
+</p
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&pause=1000&color=FF5E57&center=true&vCenter=true&width=500&lines=Hey+I'm+Vivek+Tiwari;UI%2FUX+Designer;Frontend+Developer;Crafting+Digital+Experiences" alt="Typing intro" />

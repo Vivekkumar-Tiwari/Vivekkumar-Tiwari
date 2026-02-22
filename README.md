@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1584" height="396" alt="LinkedIn cover 2026" src="https://github.com/user-attachments/assets/b7ed4750-6bd3-4225-8ddb-40a24caf32ed" />
+  <img width="1584" height="396" alt="LinkedIn cover 2026" src="https://github.com/user-attachments/assets/b7ed4750-6bd3-42c25-8ddb-40a24caf32ed" />
 </p
 
 <p align="center">

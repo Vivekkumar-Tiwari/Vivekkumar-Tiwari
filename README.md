@@ -1,17 +1,16 @@
 <p align="center">
-  <img width="1584" height="396" alt="LinkedIn cover 2026" src="https://github.com/user-attachments/assets/b7ed4750-6bd3-42c25-8ddb-40a24caf32ed" />
-</p
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5E57&height=200&section=header&text=Vivek%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h2 align="center">UI/UX Designer • React Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&pause=1000&color=FF5E57&center=true&vCenter=true&width=500&lines=Hey+I'm+Vivek+Tiwari;UI%2FUX+Designer;Frontend+Developer;Crafting+Digital+Experiences" alt="Typing intro" />
+Crafting clean, user-focused digital experiences with modern design and scalable frontend code.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekkumar-tiwari&label=VISITORS&color=FF5E57&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vivekkumar-tiwari&label=PROFILE+VIEWS&color=FF5E57&style=for-the-badge" />
 </p>
-s
---
-
 ### 🚀 About Me
 
 <table align="center">
